@@ -29,9 +29,9 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "Cheems Bot skyyy lord"
+global.botname = "ayush x skyyy lord"
 global.ownernumber = '917528914601'
-global.ownername = '🦄드림 가이 Xeon'
+global.ownername = '𝐀яʋƨннн <'
 global.ownerNumber = ["917528914601@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
@@ -39,7 +39,7 @@ global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "Sticker By"
+global.packname = "𝐀яʋƨннн <3"
 global.author = "🦄드림 가이 Xeon\n\n"
 global.creator = "917528914601@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
